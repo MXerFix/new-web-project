@@ -1,5 +1,5 @@
 "use client"
-import { contentText } from '@/utils'
+// import { contentText } from '@/utils'
 import React from 'react'
 
 const Contacts = () => {
@@ -8,7 +8,8 @@ const Contacts = () => {
   return (
     <main className=''>
       <div>
-        {contentText.contacts.title}
+        {/* {contentText.contacts.title} */}
+        contacts
       </div>
     </main>
   )
