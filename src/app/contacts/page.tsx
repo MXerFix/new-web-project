@@ -2,7 +2,7 @@
 import { contentText } from '@/utils'
 import React from 'react'
 
-export const Contacts = () => {
+const Contacts = () => {
 
 
   return (
